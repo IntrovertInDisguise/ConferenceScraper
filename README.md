@@ -1,2 +1,2 @@
-# ConferenceScraper
-Helps scrape conference submission websites for upcoming publication deadlines
+# ConferenceTracker
+Helps track conference submission websites for upcoming publication deadlines
